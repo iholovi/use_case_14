@@ -1,0 +1,14 @@
+{
+  "format1": {
+    "style": "currency",
+    "currency": "UAH",
+    "currencyDisplay": "narrowSymbol"
+  },
+  "format2": {
+    "minimumFractionDigits": 0
+  },
+  "format3": {
+    "style": "percent",
+    "minimumFractionDigits": 2
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "format1": {
+    "style": "currency",
+    "currency": "EUR",
+    "currencyDisplay": "symbol"
+  },
+  "format2": {
+    "minimumFractionDigits": 3
+  },
+  "format3": {
+    "style": "percent",
+    "minimumFractionDigits": 0
+  }
+}

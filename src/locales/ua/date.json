@@ -1,0 +1,25 @@
+{
+  "format1": {
+    "weekday": "short",
+    "year": "2-digit",
+    "month": "short",
+    "day": "2-digit"
+  },
+  "format2": {
+    "weekday": "short",
+    "year": "numeric",
+    "month": "short",
+    "day": "2-digit"
+  },
+  "format3": {
+    "weekday": "long",
+    "year": "numeric",
+    "month": "long",
+    "day": "numeric"
+  },
+  "format4": {
+    "year": "numeric",
+    "month": "numeric",
+    "day": "numeric"
+  }
+}
