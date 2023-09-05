@@ -1,6 +1,5 @@
 import React from 'react';
 import { render } from '@testing-library/react';
-import { useTranslation } from 'react-i18next';
 import LocalizedDate from './LocalizedDate';
 import { formatDate as formatDateUtil } from '../../utils/localization/formatDate.js';
 

@@ -1,6 +1,5 @@
 import React from 'react';
 import { render } from '@testing-library/react';
-import i18n from 'i18next';
 import LocalizedUnit from './LocalizedUnit';
 
 jest.mock('i18next', () => ({

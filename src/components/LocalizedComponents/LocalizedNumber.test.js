@@ -1,7 +1,6 @@
 import React from 'react';
 import { render } from '@testing-library/react';
 import LocalizedNumber from './LocalizedNumber';
-import { useTranslation } from 'react-i18next';
 
 jest.mock('react-i18next', () => ({
     useTranslation: () => ({
